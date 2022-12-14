@@ -2,7 +2,7 @@
 
 This project to get the transactions for specifc Account address and display them 
 and fetch data for each transaction 
-Open [the demo]([http://localhost:3000](https://watch.screencastify.com/v/K0pXFeaTx4l7VFA4tkBJ)) to view it.
+Open ([the demo](https://watch.screencastify.com/v/K0pXFeaTx4l7VFA4tkBJ)) to view it.
 
 try Account address: with 0x2c1ba59d6f58433fb1eaee7d20b26ed83bda51a3
 
