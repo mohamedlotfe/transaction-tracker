@@ -4,6 +4,9 @@ This project to get the transactions for specifc Account address and display the
 and fetch data for each transaction 
 Open ([the demo](https://watch.screencastify.com/v/K0pXFeaTx4l7VFA4tkBJ)) to view it.
 
+This a Screen shot for it too
+![Alt Text](https://github.com/mohamedlotfe/transaction-tracker/blob/master/public/Pasted%20Graphic.png)
+
 try Account address: with 0x2c1ba59d6f58433fb1eaee7d20b26ed83bda51a3
 
 ## Available Scripts
